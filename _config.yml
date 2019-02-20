@@ -1,11 +1,11 @@
 # Site settings
 author: John Hayes
-title: 
+title: John Hayes's Blog
 header-img: img/home-bg.png
 email: johnnyhayes7@gmail.com
 copyright_name: John Hayes
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Loops
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JohnHayes7
